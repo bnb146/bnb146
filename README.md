@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm [Dein Name] 👋</h1>
+  <h1>Hi there, I'm bnb146 👋</h1>
   <h3>Computer Science Background • Web Developer • AI & Agentic Systems Builder</h3>
   <p>
     Bridging solid software engineering and modern web development with applied AI, Multi-RAG architectures, and autonomous agentic workflows.
@@ -57,10 +57,7 @@ With a foundation in **Computer Science** and hands-on experience building full-
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:deine.email@example.com">
+  <a href="mailto:bnburkhardt@gmail.com">
     <img src="https://shields.io" alt="Email"/>
   </a>
 </p>
