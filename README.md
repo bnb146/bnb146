@@ -15,7 +15,7 @@ With a foundation in **Computer Science** and hands-on experience building full-
 * 🧠 **Currently Building:** A **Multi-RAG system** designed to handle complex, multi-source retrieval pipelines and structured knowledge synthesis.
 * 🤖 **Exploring & Experimenting:** **Agentic workflows**, reliable tool-calling, and parameter-efficient fine-tuning (**SFT / LoRA / DPO**) of open-weight multimodal models.
 * 🌐 **Background:** Designing clean web architectures, scalable APIs, and intuitive user interfaces.
-* 💬 **Ask me about:** RAG pipelines, LLM post-training, web development, or how to bridge frontend UX with backend AI agents.
+* 💬 **Learning about:** RAG pipelines, LLM post-training, web development, or how to bridge frontend UX with backend AI agents.
 
 ---
 
